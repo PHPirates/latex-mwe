@@ -1,0 +1,11 @@
+# Fdb version 4
+["pdflatex"] 1690464998 "main.tex" "/home/thomas/GitRepos/latex-mwe/out/main.pdf" "main" 1690464998 2
+  "/home/thomas/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1681929997 19996921 7ead4a7c7d7bb14ada6f927cb6b7ac43 ""
+  "/home/thomas/GitRepos/latex-mwe/auxil/main.aux" 1690464998 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/thomas/GitRepos/latex-mwe/auxil/swimtraining.cls" 0 -1 0 ""
+  "main.tex" 1690464861 86 511ea0b3e8e90716e3187d296419b1a8 ""
+  "swimtraining.cls" 0 -1 0 ""
+  (generated)
+  "/home/thomas/GitRepos/latex-mwe/auxil/main.log"
+  "/home/thomas/GitRepos/latex-mwe/out/main.pdf"
+  (rewritten before read)

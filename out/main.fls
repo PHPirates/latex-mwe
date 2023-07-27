@@ -1,0 +1,4 @@
+PWD /home/thomas/GitRepos/latex-mwe/src
+INPUT /home/thomas/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT main.tex
+OUTPUT /home/thomas/GitRepos/latex-mwe/auxil/main.log
